@@ -1,0 +1,37 @@
+PROBLEMA: PREPARARE LASAGNA ALLA BOLOGNESE COME QUELLA DELLA NONNA
+    1) Cerco la ricetta
+    2) Controllo se ho tutti gli ingredienti
+        SE 
+        ho tutti gli ingredienti vado avanti
+        ALTRIMENTI
+        vado a comprarli
+    3) Inizio la preparazione del ragù
+    4) Taglio delle verdure per il soffritto
+    5) Prendo una padella
+    6) Metto l'olio per soffriggere
+    7) Metto la padella sul fornello
+    8) Accendo il fuoco
+    9) Metto le verdure a soffriggere
+        SE
+        sono rosolate vado avanti
+        ALTRIMENTI
+        attendo che sono pronte
+    10) Verso la carne per rosolarla
+    11) Aggiungo il sugo di pomodoro
+    12) Lascio cuocere 2 ore
+    13) Prendo la teglia
+    14) Imburro la teglia
+    15) Accendo il forno per farlo riscaldare
+    16) Metto uno strato di besciamella e uno di ragù
+    17) Prondo la sfoglia comprata e creiamo il primo strato
+    18) Ripeto le ultime due operazioni finchè la teglia è piena
+    19) Completo l'ultimo strato con besciamella, ragù e parmigiano
+    20) Inforniamo la teglia per 40 min
+    21) Aspetto che cuocia
+        SE 
+        è cotta la sforno e la impiatto
+        ALTRIMENTI
+        attendo che cuocia
+    22) Mi gusto la lasagna
+    23) Mi rattristisco perché non è buona come quella della nonna perché la besciamenlla e la pasta erano comprate
+
