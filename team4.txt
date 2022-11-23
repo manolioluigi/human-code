@@ -11,7 +11,7 @@ PROBLEMA: PREPARARE LASAGNA ALLA BOLOGNESE COME QUELLA DELLA NONNA
     6) Metto l'olio per soffriggere
     7) Metto la padella sul fornello
     8) Accendo il fuoco
-    9) Metto le verdure a soffriggere
+    9) Metto le verdure a soffriggere e controllo se sono rosolate
         SE
         sono rosolate vado avanti
         ALTRIMENTI
